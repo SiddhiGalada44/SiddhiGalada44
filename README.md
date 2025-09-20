@@ -118,4 +118,3 @@ Web-based healthcare system managing immunization schedules for 2,000+ patients
 
 I'm always interested in discussing innovative projects, research opportunities, and potential collaborations. Feel free to reach out!
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=flat&logo=google-drive)](./Galada_Siddhi_Resume.pdf)
